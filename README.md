@@ -1,2 +1,2 @@
 # Angular-assignments
-Angular Assignments for Udemy course
+This repo contains Angular Assignments for Udemy course
